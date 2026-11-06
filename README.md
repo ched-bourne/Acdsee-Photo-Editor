@@ -206,3 +206,6 @@ This repository serves as the official landing page for ACDSee Photo Editor. The
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ACDSee Photo Editor today!**
+
+---
+**Last updated:** 2026-11-06 17:08:20 UTC
