@@ -208,4 +208,4 @@ This repository serves as the official landing page for ACDSee Photo Editor. The
 **Get the most recent version of ACDSee Photo Editor today!**
 
 ---
-**Last updated:** 2026-11-11 23:16:44 UTC
+**Last updated:** 2026-11-12 05:34:01 UTC
